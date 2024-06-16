@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "thakarearchana93@gmail.com",
+      "password": "Archana@123"
+    },
+    {
+      "id": "2",
+      "email": "raundalarchana@gmail.com",
+      "password": "Archana@12"
+    },
+    {
+      "id": "1718432257856",
+      "email": "Shivanash@gmail.com",
+      "password": "Shivansh@1234"
+    },
+    {
+      "id": "1718432405254",
+      "email": "thakarearchana93@gmail.com",
+      "password": "Archu@56"
+    },
+    {
+      "id": "1718432420489",
+      "email": "mitali@gmail.com",
+      "password": "Mitali@123"
+    },
+    {
+      "id": "1718432658878",
+      "username": "Shital",
+      "email": "raundalarchana@gmail.com",
+      "password": "Shital@123",
+      "cpassword": "Shital@123"
+    },
+    {
+      "id": "1718433017004",
+      "username": "Nish",
+      "email": "nisha26@gmail.com",
+      "password": "Nish@123",
+      "cpassword": "Nisha@123"
+    },
+    {
+      "id": "1718433441320",
+      "email": "Shivanash@gmail.com",
+      "password": "Shivansh@123"
+    },
+    {
+      "id": "1718433562345",
+      "email": "Shivanash@gmail.com",
+      "password": "Shivansh@123"
+    }
+  ],
+  "register": [
+    {
+      "id": "1",
+      "username": "Shital",
+      "email": "Shivanash@gmail.com",
+      "password": "Shital@123",
+      "cpassword": "Shital@123"
+    },
+    {
+      "id": "1718433121986",
+      "username": "Amol",
+      "email": "thakareamol@gmail.com",
+      "password": "Amol@34",
+      "cpassword": "Amol@34"
+    },
+    {
+      "id": "1718433201144",
+      "username": "Rahul",
+      "email": "raundalarchana@gmail.com",
+      "password": "Rahul@123",
+      "cpassword": "Rahul@123"
+    },
+    {
+      "id": "1718440805346",
+      "username": "happy",
+      "email": "happy@gmail.com",
+      "password": "happy@123",
+      "cpassword": "Happy@123"
+    },
+    {
+      "id": "1718440929548",
+      "username": "happy",
+      "email": "happy@gmail.com",
+      "password": "Happy@123",
+      "cpassword": "Happy@123"
+    },
+    {
+      "id": "1718441838494",
+      "username": "happy",
+      "email": "happy@gmail.com",
+      "password": "Happy@123",
+      "cpassword": "Happy@123"
+    },
+    {
+      "id": "1718462769416",
+      "username": "Rahul Thakare",
+      "email": "raundalarchana@gmail.com",
+      "password": "Rahul@123",
+      "cpassword": "Rahul@123"
+    }
+  ],
+  "account": [
+    {
+      "id": "1718462216173",
+      "accountno": "567890765432",
+      "fullname": "Priyanka Nandurbare",
+      "city": "jalgao",
+      "state": "Kota",
+      "address": "Amblner Sugarn"
+    },
+    {
+      "id": "1718462490616",
+      "accountno": "875698345678",
+      "fullname": "Shivansh Archana Thakare ",
+      "city": "Nashik ",
+      "state": "Maharashtra",
+      "address": "Talwade Diger"
+    },
+    {
+      "id": 1718530563370,
+      "accountno": "879654345687",
+      "fullname": "Surbhi Patil",
+      "city": "Nashik",
+      "state": "MP",
+      "address": "p.j.nagar"
+    },
+    {
+      "id": 1718531075834,
+      "accountno": "768954675432",
+      "fullname": "Partha",
+      "city": "Rane Nagar",
+      "state": "Maharashtra",
+      "address": "gujarat"
+    },
+    {
+      "id": 1718531751362,
+      "accountno": "896754567843",
+      "fullname": "Arnav Thakare",
+      "city": "Ramvadi",
+      "state": "Junner",
+      "address": "J J  Nagar pune"
+    }
+  ]
+}
